@@ -1,0 +1,20 @@
+[
+  {
+    "meal_id":"ME123",
+    "meal_title": "Noodle",    
+    "price": {
+      "large": "45000",
+      "medium": "35000",
+      "small": "20000"
+    }
+  },
+  {
+    "meal_id":"ME500",
+    "meal_title": "Chicken Soup",    
+    "price": {
+      "large": "25000",
+      "medium": "20000",
+      "small": "17000"
+    }
+  }
+]
